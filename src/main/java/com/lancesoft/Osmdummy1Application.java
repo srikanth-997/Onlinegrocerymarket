@@ -20,6 +20,7 @@ public class Osmdummy1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Osmdummy1Application.class, args);
 		//first changes
+		//second change from github
 	}
 	
 	
